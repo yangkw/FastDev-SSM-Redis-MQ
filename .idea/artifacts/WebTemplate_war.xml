@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="WebTemplate:war">
+    <output-path>$PROJECT_DIR$/../WebTemplate/target</output-path>
+    <root id="archive" name="kwsir.war">
+      <element id="artifact" artifact-name="WebTemplate:war exploded" />
+    </root>
+  </artifact>
+</component>
